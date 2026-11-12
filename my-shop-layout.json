@@ -1,0 +1,668 @@
+{
+  "cats": [
+    {
+      "id": "c1",
+      "name": "Stationary Power",
+      "paletteIdx": 0,
+      "tools": [
+        {
+          "id": "t1",
+          "name": "Table Saw",
+          "w": 36,
+          "d": 30
+        },
+        {
+          "id": "t2",
+          "name": "Band Saw",
+          "w": 24,
+          "d": 24
+        },
+        {
+          "id": "t3",
+          "name": "Jointer",
+          "w": 16,
+          "d": 60
+        },
+        {
+          "id": "t4",
+          "name": "Planer",
+          "w": 22,
+          "d": 30
+        },
+        {
+          "id": "t5",
+          "name": "Drill Press",
+          "w": 18,
+          "d": 24
+        },
+        {
+          "id": "t16",
+          "name": "Scroll Saw",
+          "w": 22,
+          "d": 18
+        },
+        {
+          "id": "t20",
+          "name": "Miter Saw",
+          "w": 24,
+          "d": 36
+        },
+        {
+          "id": "t21",
+          "name": "Shaper Table",
+          "w": 48,
+          "d": 48
+        },
+        {
+          "id": "t22",
+          "name": "Router Table",
+          "w": 36,
+          "d": 60
+        },
+        {
+          "id": "t23",
+          "name": "Belt/Disc Sander",
+          "w": 36,
+          "d": 36
+        },
+        {
+          "id": "t24",
+          "name": "Mini-Lathe",
+          "w": 24,
+          "d": 36
+        },
+        {
+          "id": "t25",
+          "name": "Lathe",
+          "w": 36,
+          "d": 72
+        },
+        {
+          "id": "t26",
+          "name": "Wide Belt Sander",
+          "w": 24,
+          "d": 72
+        },
+        {
+          "id": "t27",
+          "name": "Scroll Saw",
+          "w": 24,
+          "d": 36
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Workstations",
+      "paletteIdx": 1,
+      "tools": [
+        {
+          "id": "t6",
+          "name": "Workbench",
+          "w": 72,
+          "d": 30
+        },
+        {
+          "id": "t7",
+          "name": "Assembly Table",
+          "w": 48,
+          "d": 48
+        },
+        {
+          "id": "t44",
+          "name": "Miter Station",
+          "w": 24,
+          "d": 96
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "Storage",
+      "paletteIdx": 2,
+      "tools": [
+        {
+          "id": "t8",
+          "name": "Tool Cabinet",
+          "w": 36,
+          "d": 18
+        },
+        {
+          "id": "t9",
+          "name": "Lumber Rack",
+          "w": 96,
+          "d": 18
+        },
+        {
+          "id": "t10",
+          "name": "Clamp Rack",
+          "w": 48,
+          "d": 12
+        },
+        {
+          "id": "t15",
+          "name": "Shelf Unit",
+          "w": 48,
+          "d": 16
+        },
+        {
+          "id": "t28",
+          "name": "Tool Chest",
+          "w": 24,
+          "d": 48
+        },
+        {
+          "id": "t29",
+          "name": "Wall Cabinet",
+          "w": 24,
+          "d": 48
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "name": "Dust Collection",
+      "paletteIdx": 4,
+      "tools": [
+        {
+          "id": "t11",
+          "name": "Dust Collector",
+          "w": 24,
+          "d": 24
+        },
+        {
+          "id": "t12",
+          "name": "DC Separator",
+          "w": 18,
+          "d": 18
+        },
+        {
+          "id": "t30",
+          "name": "Dust Collector",
+          "w": 24,
+          "d": 72
+        },
+        {
+          "id": "t31",
+          "name": "Dust Collector",
+          "w": 48,
+          "d": 48
+        },
+        {
+          "id": "t32",
+          "name": "Dust Collector",
+          "w": 60,
+          "d": 60
+        },
+        {
+          "id": "t33",
+          "name": "Duct Pipe 4\"",
+          "w": 4,
+          "d": 60
+        },
+        {
+          "id": "t34",
+          "name": "Duct Pipe 5\"",
+          "w": 5,
+          "d": 60
+        },
+        {
+          "id": "t35",
+          "name": "Duct Pipe 6\"",
+          "w": 6,
+          "d": 60
+        },
+        {
+          "id": "t36",
+          "name": "45° Wye Joint",
+          "w": 12,
+          "d": 12
+        },
+        {
+          "id": "t37",
+          "name": "Adjustable Elbow",
+          "w": 12,
+          "d": 12
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "name": "Finishing",
+      "paletteIdx": 2,
+      "tools": [
+        {
+          "id": "t13",
+          "name": "Finishing Station",
+          "w": 48,
+          "d": 30
+        },
+        {
+          "id": "t38",
+          "name": "Spray Booth",
+          "w": 72,
+          "d": 96
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "name": "CNC/Laser",
+      "paletteIdx": 6,
+      "tools": [
+        {
+          "id": "t48",
+          "name": "Desktop CNC",
+          "w": 24,
+          "d": 24
+        },
+        {
+          "id": "t49",
+          "name": "Small CNC",
+          "w": 24,
+          "d": 36
+        },
+        {
+          "id": "t50",
+          "name": "Medium CNC",
+          "w": 48,
+          "d": 48
+        },
+        {
+          "id": "t51",
+          "name": "Large CNC",
+          "w": 48,
+          "d": 96
+        },
+        {
+          "id": "t52",
+          "name": "Desktop Laser",
+          "w": 24,
+          "d": 24
+        },
+        {
+          "id": "t53",
+          "name": "Small Laser",
+          "w": 24,
+          "d": 36
+        },
+        {
+          "id": "t54",
+          "name": "Medium Laser",
+          "w": 36,
+          "d": 60
+        },
+        {
+          "id": "t55",
+          "name": "Large Laser",
+          "w": 48,
+          "d": 96
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "name": "Accessories",
+      "paletteIdx": 5,
+      "tools": [
+        {
+          "id": "t45",
+          "name": "Air Compressor",
+          "w": 12,
+          "d": 12
+        },
+        {
+          "id": "t46",
+          "name": "Air Compressor",
+          "w": 24,
+          "d": 24
+        },
+        {
+          "id": "t47",
+          "name": "Air Compressor",
+          "w": 24,
+          "d": 36
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "name": "Existing Stuff",
+      "paletteIdx": 3,
+      "tools": [
+        {
+          "id": "t39",
+          "name": "Water Heater",
+          "w": 36,
+          "d": 36
+        },
+        {
+          "id": "t40",
+          "name": "Utility Sink",
+          "w": 36,
+          "d": 36
+        },
+        {
+          "id": "t41",
+          "name": "Water Filter",
+          "w": 24,
+          "d": 36
+        },
+        {
+          "id": "t42",
+          "name": "Washer",
+          "w": 36,
+          "d": 36
+        },
+        {
+          "id": "t43",
+          "name": "Dryer",
+          "w": 36,
+          "d": 36
+        }
+      ]
+    },
+    {
+      "id": "c9",
+      "name": "Interior Walls",
+      "paletteIdx": 7,
+      "tools": [
+        {
+          "id": "tw1",
+          "name": "Wall 1ft",
+          "w": 4,
+          "d": 12
+        },
+        {
+          "id": "tw2",
+          "name": "Wall 2ft",
+          "w": 4,
+          "d": 24
+        },
+        {
+          "id": "tw3",
+          "name": "Wall 3ft",
+          "w": 4,
+          "d": 36
+        },
+        {
+          "id": "tw4",
+          "name": "Wall 4ft",
+          "w": 4,
+          "d": 48
+        },
+        {
+          "id": "tw5",
+          "name": "Wall 6ft",
+          "w": 4,
+          "d": 72
+        },
+        {
+          "id": "tw6",
+          "name": "Wall 8ft",
+          "w": 4,
+          "d": 96
+        },
+        {
+          "id": "tw7",
+          "name": "Wall 10ft",
+          "w": 4,
+          "d": 120
+        },
+        {
+          "id": "tw8",
+          "name": "Wall 12ft",
+          "w": 4,
+          "d": 144
+        },
+        {
+          "id": "tw9",
+          "name": "Wall 16ft",
+          "w": 4,
+          "d": 192
+        }
+      ]
+    }
+  ],
+  "shopW": "39.37007874015748",
+  "shopD": "22.96587926509186",
+  "popouts": [],
+  "placed": [
+    {
+      "id": "402",
+      "catId": "c1",
+      "toolId": "t1",
+      "x": 311.9109207753561,
+      "y": 96.36304077396282,
+      "rot": 180,
+      "nameOverride": "SAWSTOP",
+      "wOver": 42,
+      "dOver": 69
+    },
+    {
+      "id": "404",
+      "catId": "c1",
+      "toolId": "t2",
+      "x": 441.8662797115813,
+      "y": 151.77677573972156,
+      "rot": 0
+    },
+    {
+      "id": "405",
+      "catId": "c1",
+      "toolId": "t3",
+      "x": 262.610253193393,
+      "y": 171.63208233777092,
+      "rot": 90,
+      "nameOverride": "Jointer/Planer",
+      "wOver": 24,
+      "dOver": 79
+    },
+    {
+      "id": "407",
+      "catId": "c1",
+      "toolId": "t5",
+      "x": 399.33272703402645,
+      "y": 15.960904452033056,
+      "rot": 90
+    },
+    {
+      "id": "408",
+      "catId": "c1",
+      "toolId": "t20",
+      "x": 125.22796805275588,
+      "y": 12.110588030127396,
+      "rot": 90
+    },
+    {
+      "id": "410",
+      "catId": "c1",
+      "toolId": "t22",
+      "x": 431.2992304410001,
+      "y": 191.049263461473,
+      "rot": 180
+    },
+    {
+      "id": "411",
+      "catId": "c1",
+      "toolId": "t23",
+      "x": 303.60850500211336,
+      "y": 232.72593324216916,
+      "rot": 0
+    },
+    {
+      "id": "412",
+      "catId": "c1",
+      "toolId": "t25",
+      "x": 348.0854079282208,
+      "y": 232.72656540459622,
+      "rot": 90
+    },
+    {
+      "id": "413",
+      "catId": "c1",
+      "toolId": "t26",
+      "x": 442.2263292415806,
+      "y": 63.60777902485927,
+      "rot": 0
+    },
+    {
+      "id": "415",
+      "catId": "c2",
+      "toolId": "t6",
+      "x": 161.1393555924157,
+      "y": 12.218338497902295,
+      "rot": 0
+    },
+    {
+      "id": "416",
+      "catId": "c2",
+      "toolId": "t6",
+      "x": 53.50548667740331,
+      "y": 12.01175397408931,
+      "rot": 0
+    },
+    {
+      "id": "418",
+      "catId": "c4",
+      "toolId": "t11",
+      "x": 435.81127844390215,
+      "y": 12.276405039831715,
+      "rot": 0,
+      "nameOverride": "Dust Collector",
+      "wOver": 32,
+      "dOver": 32
+    },
+    {
+      "id": "420",
+      "catId": "c2",
+      "toolId": "t6",
+      "x": 239.8503981909604,
+      "y": 12.218371597323966,
+      "rot": 0
+    },
+    {
+      "id": "421",
+      "catId": "c2",
+      "toolId": "t6",
+      "x": 311.53743458217684,
+      "y": 12.01175397408931,
+      "rot": 0
+    },
+    {
+      "id": "422",
+      "catId": "c3",
+      "toolId": "t10",
+      "x": 238.59021961750773,
+      "y": 263.4257218163886,
+      "rot": 180
+    },
+    {
+      "id": "423",
+      "catId": "c8",
+      "toolId": "t51",
+      "x": 3.246987775025687,
+      "y": 4.548805599538021,
+      "rot": 0
+    },
+    {
+      "id": "429",
+      "catId": "c2",
+      "toolId": "t6",
+      "x": 242.8993265082749,
+      "y": 96.40637699669986,
+      "rot": 90,
+      "nameOverride": "Workbench",
+      "wOver": 69,
+      "dOver": 69
+    },
+    {
+      "id": "430",
+      "catId": "c3",
+      "toolId": "t9",
+      "x": 3.605986295385879,
+      "y": 112.51418015733108,
+      "rot": 90
+    },
+    {
+      "id": "432",
+      "catId": "c2",
+      "toolId": "t7",
+      "x": 72.80638552287756,
+      "y": 83.34739797424342,
+      "rot": 90,
+      "nameOverride": "Assembly Table",
+      "wOver": 118,
+      "dOver": 47
+    },
+    {
+      "id": "433",
+      "catId": "c3",
+      "toolId": "t15",
+      "x": 53.75472920501912,
+      "y": 0.21193341809608057,
+      "rot": 0,
+      "nameOverride": "Shelf Unit",
+      "wOver": 72,
+      "dOver": 12
+    },
+    {
+      "id": "435",
+      "catId": "c7",
+      "toolId": "t46",
+      "x": 3.07606942831562,
+      "y": 237.26315057366878,
+      "rot": 0
+    },
+    {
+      "id": "437",
+      "catId": "c8",
+      "toolId": "t53",
+      "x": -175.95641932522986,
+      "y": 150.93971302355038,
+      "rot": 0
+    },
+    {
+      "id": "438",
+      "catId": "c8",
+      "toolId": "t52",
+      "x": 3.282600802037514,
+      "y": 211.40114753936336,
+      "rot": 0
+    }
+  ],
+  "wfs": [
+    {
+      "id": "424",
+      "wfType": "door-garage-single",
+      "name": "Single Garage (9')",
+      "x": 2.8641499654424365,
+      "y": 262.5164324493586,
+      "rot": 0,
+      "sizeFt": 9,
+      "hFt": 1
+    },
+    {
+      "id": "426",
+      "wfType": "door-swing",
+      "name": "Inward Door (3')",
+      "x": -91.28809403361853,
+      "y": 221.5937164642964,
+      "rot": 0,
+      "sizeFt": 3,
+      "hFt": 3
+    },
+    {
+      "id": "427",
+      "wfType": "door-garage-single",
+      "name": "SLIDING DOOR",
+      "x": 115.06800147946467,
+      "y": 262.30984792554557,
+      "rot": 0,
+      "sizeFt": 8.999343832020998,
+      "hFt": 1
+    }
+  ],
+  "groups": [],
+  "_v": 3
+}
